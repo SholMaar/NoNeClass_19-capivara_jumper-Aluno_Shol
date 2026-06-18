@@ -19,7 +19,7 @@
             if (_move_left)                                 // para esquerda
                 hspeed = -move_velocity;                    // aplicando velocidade
             else if (_move_right)                           // para direita
-            hspeed = move_velocity;                         // aplicando velocidade
+                hspeed = move_velocity;                     // aplicando velocidade
             else hspeed = lerp(hspeed, 0, .1);              // zerando velocidade
                 
             // fazendo o jogador aparecer do outro lado da tela quando sair pela tela
