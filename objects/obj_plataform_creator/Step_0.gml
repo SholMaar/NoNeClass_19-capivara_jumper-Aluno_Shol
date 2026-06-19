@@ -1,5 +1,4 @@
 #region chamada de metodos
-    follow_player();
+    creat_platform();
 #endregion
-
 
