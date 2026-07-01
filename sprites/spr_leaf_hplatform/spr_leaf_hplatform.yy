@@ -23,7 +23,7 @@
   ],
   "name":"spr_leaf_hplatform",
   "nineSlice":null,
-  "origin":0,
+  "origin":1,
   "parent":{
     "name":"Platforms",
     "path":"folders/Sprites/Platforms.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
+    "xorigin":32,
     "yorigin":0,
   },
   "swatchColours":null,

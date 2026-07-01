@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_plataform_creator",
+  "%Name":"obj_plataform_control",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_plataform_creator",
+  "name":"obj_plataform_control",
   "overriddenProperties":[],
   "parent":{
     "name":"Control",
